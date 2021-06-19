@@ -2,7 +2,7 @@
  <h2>Olá, sou Nilson José <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"></h2>
  <img align="left" alt="GIF" src="images/eu.gif" 
     style="
-        width:500px;
+        width:100vh;
         height:426px;
         margin-right:10px;
     "
