@@ -1,6 +1,6 @@
  <div align="left">
  <h2>Olá, sou Nilson José <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"></h2>
- <img align="left" alt="GIF" src="images/eu.gif" 
+ <img align="left" alt="GIF" src="images/eugif.gif" 
     style="
         width:100vh;
         height:426px;
