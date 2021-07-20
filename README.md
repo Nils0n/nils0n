@@ -27,7 +27,7 @@
  <div style="display: inline_block"> 
   <h3> 🤝🏻 Contate-me </h3>
   <p align="left"> 
-  &nbsp; <a href="https://www.linkedin.com/in/nilson-jos%C3%A9-24135b215/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="50" /></a>
+  &nbsp; <a href="https://www.linkedin.com/in/nilson-jose-24135b215/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="50" /></a>
   &nbsp; <a  href="mailto:nilson_jose.v@hotmail.com"><img src="https://img.icons8.com/color/48/000000/ms-outlook.png"/>
   </p>
  </div><br>
