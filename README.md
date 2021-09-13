@@ -12,7 +12,7 @@
  <div>
  <h3>Sobre Mim:</h3>
  - 🎓 &nbsp; Graduando em Análise e Desenvolvimento de Sistemas.<br>
- - 💼 &nbsp; Em busca de ser um desenvolvedor front-end.<br>
+
  </div>
  
  <div>
