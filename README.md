@@ -15,20 +15,7 @@
 
  </div>
  
- <div>
- <h5>Tecnologias:</h5> 
- 
--Laravel
--PHP
--Bootstrap
--Javascript
--JQuery
--HTML5
--CSS
- 
- 
-  <br>
- </div>
+
 
  <div style="display: inline_block"> 
   <h3> 🤝🏻 Contate-me </h3>
